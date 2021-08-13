@@ -10,7 +10,7 @@ So this is an employee registry service app, where API's are exposed to allow to
 
 I will further add more to this in the coming days.
 
-So this is standard ASP.NET setup, Startup class has all our basic configrations. MainController runs all the fun stuff. DTO's are setup, as per good practice, to hide source code. Entity Framework is used, with migratations setup. Azure SQL database is setup and running on my Azure account.
+So this is standard ASP.NET setup, Startup class has all our basic configrations. MainController runs all the fun stuff. DTO's are setup, as per good practice, to hide source code. Entity Framework is used, with migrations setup. Azure SQL database is setup and running on my Azure account.
 
 Quite a decent general template for most of the common REST setups, operations and coding. It has all the important pieces here.
 
