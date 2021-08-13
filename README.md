@@ -14,4 +14,14 @@ So this is standard ASP.NET setup, Startup class has all our basic configrations
 
 Quite a decent general template for most of the common REST setups, operations and coding. It has all the important pieces here.
 
-Absolutely love working in C# and .NET, and anything related to Microsoft and Azure, and that whole shabang.
+Absolutely love working in C# and .NET, and anything related to Microsoft and Azure.
+
+Here is Swagger of it:
+![alt text](https://github.com/VBukowsky81/ASPNETWebAPINet5DemoService/blob/master/Other/MyAPISwagger.jpg)
+
+And GetAll response:
+![alt text](https://github.com/VBukowsky81/ASPNETWebAPINet5DemoService/blob/master/Other/GetAll.jpg)
+
+Thanks, good day
+
+Victor
