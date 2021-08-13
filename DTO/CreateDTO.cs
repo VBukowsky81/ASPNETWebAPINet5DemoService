@@ -2,6 +2,7 @@
 
 namespace WebAPIDemoApp.DTO
 {
+    //Enforcing a bit of formating, for good measure - Max length to 100, NULL objects not allowed
     public class CreateDTO
     {
         [Required]

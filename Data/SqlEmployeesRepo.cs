@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using WebAPIDemoApp.Models;
 
+
+//SQL database operations setup, all the basic operations are here.
 namespace WebAPIDemoApp.Data
 {
     public class SqlEmployeesRepo : IEmployeesRepo

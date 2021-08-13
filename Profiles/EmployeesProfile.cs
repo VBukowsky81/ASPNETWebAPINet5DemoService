@@ -3,6 +3,7 @@ using WebAPIDemoApp.Models;
 using AutoMapper;
 
 //DTO mappings configurations. Each map must be done manually, and is not reversable
+//Using AutoMapper
 namespace WebAPIDemoApp.Profiles
 {
     public class EmployeesProfile : Profile
