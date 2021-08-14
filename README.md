@@ -1,6 +1,7 @@
 # ASPNETWebAPINet5DemoService
 Decently fleshed out Web API service app, with all 5 standard HTTP operations
 
+Service published on Azure at https://aspnetwebapinet5service.azurewebsites.net. Use Postman, or whatever else, to do manual requests.
 
 Hello there, and good day.
 
