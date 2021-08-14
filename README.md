@@ -5,6 +5,8 @@ Service published on Azure at https://aspnetwebapinet5service.azurewebsites.net.
 
 Or use Swagger directly at https://aspnetwebapinet5service.azurewebsites.net/swagger/index.html
 
+
+
 Hello there, and good day.
 
 This is nicely fleshed out ASP.NET-built Web API, with all the standard HTTP operations on it. I will be hosting the whole thing on my Azure shortly, with Azure SQL database as well.
