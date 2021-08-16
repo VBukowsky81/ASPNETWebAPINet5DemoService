@@ -1,5 +1,5 @@
 # ASPNETWebAPINet5DemoService
-Decently fleshed out Web API service app, with all 5 standard HTTP operations
+Web API service app, with all 5 standard HTTP operations, REST, RESTful designs, Azure SQL
 
 Service published on Azure at https://aspnetwebapinet5service.azurewebsites.net. Use Postman, or whatever else, to do manual requests.
 
@@ -9,7 +9,7 @@ Or use Swagger directly at https://aspnetwebapinet5service.azurewebsites.net/swa
 
 Hello there, and good day.
 
-This is nicely fleshed out ASP.NET-built Web API, with all the standard HTTP operations on it. I will be hosting the whole thing on my Azure shortly, with Azure SQL database as well.
+This is a decent example of an ASP.NET-built Web API, with all the standard HTTP operations on it. I will be hosting the whole thing on my Azure shortly, with Azure SQL database as well.
 
 So this is an employee registry service app, where API's are exposed to allow to work with it - all the standard CRUD operations - Get, Put, Post, etc.
 
