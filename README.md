@@ -31,4 +31,4 @@ And GetAll response:
 
 Thanks, good day
 
-Victor
+Vic
