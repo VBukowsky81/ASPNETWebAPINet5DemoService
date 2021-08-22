@@ -1,4 +1,4 @@
-# ASPNETWebAPINet5DemoService
+# ASP.NET5 WebAPI Demo Service
 Web API service app, with all 5 standard HTTP operations, REST, RESTful designs, Azure SQL
 
 Service published on Azure at https://aspnetwebapinet5service.azurewebsites.net. Use Postman, or whatever else, to do manual requests.
