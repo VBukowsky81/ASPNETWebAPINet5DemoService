@@ -19,9 +19,9 @@ So this is standard ASP.NET setup, Startup class has all our basic configrations
 
 Quite a decent general template for most of the common REST setups, operations and coding. It has all the important pieces here.
 
-GET is used for ALL request, as well as {id}, of course. PATCH is implemented, and as you know, is pretty complicated to set up. PATCH requires additional library, in order to work. And also requires a bit of setting up. POST is the usual create, and so on. I just couldn't think of any more operations I could implement, in addition to what's already here.
+GET is used for ALL request, as well as {id}, of course. PATCH is implemented, and as you know, is pretty complicated to set up. PATCH requires additional library, in order to work. And also requires a bit of setting up. POST is the usual create, and so on. I couldn't think of any more operations I could implement, in addition to what's already here.
 
-Absolutely love working in C# and .NET, and anything related to Microsoft and Azure.
+Really enjoying working with C# and .NET, and anything related to Microsoft and Azure. Everything is so seamlessly integrated together.
 
 Here is Swagger of it:
 ![alt text](https://github.com/VBukowsky81/ASPNETWebAPINet5DemoService/blob/master/Other/MyAPISwagger.jpg)
